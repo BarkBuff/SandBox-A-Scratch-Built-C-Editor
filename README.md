@@ -1,9 +1,9 @@
-# TextCore-A-Scratch-Built-C-Editor
+# SandBox-A-Scratch-Built-C-Editor
 
 **Tagline:** Rebuilding a text editor from bare C to understand Unix guts.
 
 ## Overview
-TextCore is a minimal terminal-based text editor written from scratch in C.  
+SandBox is a minimal terminal-based text editor written from scratch in C.  
 It explores low-level terminal I/O, dynamic memory management, and file operations, providing a hands-on environment for understanding how text editing works at the OS level.
 
 ## Features
